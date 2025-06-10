@@ -1,0 +1,16 @@
+{
+  "name": "PureScan2",
+  "short_name": "PureScan",
+  "description": "AI-powered skin analysis and care companion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
